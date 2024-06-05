@@ -29,6 +29,10 @@ const server = http.createServer((req, res) => {
     }
 });
 
+
+google slides link
+https://docs.google.com/presentation/d/1QLANYD4dfyMhpzE5Ft9OuFLNd49FQvLLy9kk-8qzOPc/edit#slide=id.p
+
 // Start the server
 const port = 8000;
 server.listen(port, () => {
